@@ -1,4 +1,4 @@
 # House-Price-Prediction
 
 
-Objective:
+Objective: To predict the house prices 
