@@ -9,5 +9,4 @@ Datasets:
 
 
 Tech Stack:
-Sklearn
 
